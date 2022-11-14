@@ -1,0 +1,104 @@
+{
+  "customerTransactions": [
+    {
+      "id": 1,
+      "customerFullName": "Janvier Isabane",
+      "transactions": [
+        {
+          "transactionId": "slkdf-123",
+          "transactionCost": 120.00,
+          "transactionDateTime": "2022-05-10T13:49:51.141Z",
+          "reward": 0.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "customerFullName": "Smith Patrick",
+      "transactions": [
+        {
+          "transactionId": "slkdf-212",
+          "transactionCost": 120.98,
+          "transactionDateTime": "2022-08-10T13:49:51.141Z",
+          "reward": 0.0
+        },
+        {
+          "transactionId": "slkdf-213",
+          "transactionCost": 80.98,
+          "transactionDateTime": "2022-07-10T13:49:51.141Z",
+          "reward": 0.0
+        }
+      ]
+    },{
+      "id": 3,
+      "customerFullName": "Mike Robert",
+      "transactions": [
+        {
+          "transactionId": "slkdf-331",
+          "transactionCost": 350.00,
+          "transactionDateTime": "2022-01-10T13:49:51.141Z",
+          "reward": 0.0
+        },
+        {
+          "transactionId": "slkdf-332",
+          "transactionCost": 93.00,
+          "transactionDateTime": "2022-03-10T13:49:51.141Z",
+          "reward": 0.0
+        },
+        {
+          "transactionId": "slkdf-333",
+          "transactionCost": 100.21,
+          "transactionDateTime": "2022-04-10T13:49:51.141Z",
+          "reward": 0.0
+        },
+        {
+          "transactionId": "slkdf-334",
+          "transactionCost": 200.44,
+          "transactionDateTime": "2022-05-10T13:49:51.141Z",
+          "reward": 0.0
+        },
+        {
+          "transactionId": "slkdf-335",
+          "transactionCost": 150.00,
+          "transactionDateTime": "2022-06-10T13:49:51.141Z",
+          "reward": 0.0
+        }
+      ]
+    },{
+      "id": 4,
+      "customerFullName": "Gibson Makenz",
+      "transactions": [
+        {
+          "transactionId": "slkdf-401",
+          "transactionCost": 49.00,
+          "transactionDateTime": "2022-01-10T13:49:51.141Z",
+          "reward": 0.0
+        },
+        {
+          "transactionId": "slkdf-402",
+          "transactionCost": 293.00,
+          "transactionDateTime": "2022-03-10T13:49:51.141Z",
+          "reward": 0.0
+        },
+        {
+          "transactionId": "slkdf-401",
+          "transactionCost": 100.00,
+          "transactionDateTime": "2022-04-10T13:49:51.141Z",
+          "reward": 0.0
+        },
+        {
+          "transactionId": "slkdf-402",
+          "transactionCost": 300.00,
+          "transactionDateTime": "2022-05-10T13:49:51.141Z",
+          "reward": 0.0
+        },
+        {
+          "transactionId": "slkdf-403",
+          "transactionCost": 80.00,
+          "transactionDateTime": "2022-06-10T13:49:51.141Z",
+          "reward": 0.0
+        }
+      ]
+    }
+  ]
+}
